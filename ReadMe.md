@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Formando-se em Redes de Computadores<br>👨‍💻 Estudante de programação e codificação<br>
+🔭 Formado em Redes de Computadores<br>👨‍💻 Estudante de programação e codificação<br>
 
 
 ## 🌐 Redes Sociais:
