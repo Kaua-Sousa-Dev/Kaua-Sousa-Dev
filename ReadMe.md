@@ -1,10 +1,6 @@
 # 💫 Sobre Mim:
 🔭 Formado em Redes de Computadores<br>👨‍💻 Estudante de programação e codificação<br>
 
-
-# 👀 Visite meu Website:
-https://ksousa-portfolio.netlify.app/
-
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ks.lima/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kaua-sousa-dev) 
 
